@@ -2,10 +2,10 @@
     background-color: black;
 }
 #un{
-    color: white;
+    color:magenta;
 }
 #para{
-    color: white;
+    color:magenta;
     height: fit-content;
     width: fit-content;
     margin-left: 1.3em;
@@ -13,7 +13,7 @@
 }
 #div{
     border-style:  solid;
-    border-color: white;
+    border-color:magenta;
     border-width: 1em;
     width: fit-content;
     height: fit-content;
@@ -22,7 +22,7 @@
 }
 #div1{
     border-style:  solid;
-    border-color: white;
+    border-color:magenta;
     border-width: 0.5em;
     width: fit-content;
     height: fit-content;
@@ -31,7 +31,7 @@
 }
 #div2{
     border-style:  solid;
-    border-color: white;
+    border-color:magenta;
     border-width: 0.5em;
     width: fit-content;
     height: fit-content;
@@ -40,7 +40,7 @@
 }
 #div3{
     border-style:  solid;
-    border-color: white;
+    border-color:magenta;
     border-width: 0.5em;
     width: fit-content;
     height: fit-content;
@@ -48,7 +48,7 @@
     padding: 1em;
 }
 #detail{
-    color: white;
+    color:magenta;
 }
 #card{
     width: fit-content;
@@ -59,7 +59,7 @@
 }
 #card1{
     border-style: solid;
-    border-color: white;
+    border-color:magenta;
     border-width: 0.5em;
     padding: 1em;
     margin: 1em;
@@ -70,18 +70,23 @@
     width: 25em;
     height: 24em;
     border-style:  solid;
-    border-color: white;
+    border-color:magenta;
     border-width: 0.5em;
     padding: 1em;
     margin: 1em;
 }
 #div5{
     border-style: solid;
-    border-color: white;
+    border-color:magenta;
     border-width: 0.5em;
     width: fit-content;
     height: fit-content;
     margin: 1em;
     padding: 1em;
 }
-   
+#theme-switcher{
+    color: black;
+    background-color:magenta;
+    width: 6em;
+    height: 4em;
+}  

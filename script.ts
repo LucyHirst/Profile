@@ -90,5 +90,3 @@ class Ball {
     }
     requestAnimationFrame(cycle)
   };
-
-  

@@ -1,0 +1,90 @@
+#body{
+    background-color: black;
+    border-style:  solid;
+    border-color: white;
+    border-width: 1em;
+}
+#un{
+    color: white;
+}
+#para{
+    color: white;
+    height: fit-content;
+    width: fit-content;
+    margin-left: 1.3em;
+    font-size: x-large;
+}
+#div{
+    border-style:  solid;
+    border-color: white;
+    border-width: 1em;
+    width: fit-content;
+    height: fit-content;
+    padding: 1em;
+    margin: 2em;
+}
+#div1{
+    border-style:  solid;
+    border-color: white;
+    border-width: 0.5em;
+    width: fit-content;
+    height: fit-content;
+    margin: 1em;
+    padding: 1em;
+}
+#div2{
+    border-style:  solid;
+    border-color: white;
+    border-width: 0.5em;
+    width: fit-content;
+    height: fit-content;
+    margin: 1em;
+    padding: 1em;
+}
+#div3{
+    border-style:  solid;
+    border-color: white;
+    border-width: 0.5em;
+    width: fit-content;
+    height: fit-content;
+    margin: 1em;
+    padding: 1em;
+}
+#detail{
+    color: white;
+}
+#card{
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#card1{
+    border-style: solid;
+    border-color: white;
+    border-width: 0.5em;
+    padding: 1em;
+    margin: 1em;
+    width: fit-content;
+    height: fit-content;
+}
+#div4{
+    width: 25em;
+    height: 24em;
+    border-style:  solid;
+    border-color: white;
+    border-width: 0.5em;
+    padding: 1em;
+    margin: 1em;
+}
+#div5{
+    border-style: solid;
+    border-color: white;
+    border-width: 0.5em;
+    width: fit-content;
+    height: fit-content;
+    margin: 1em;
+    padding: 1em;
+}
+   

@@ -18,7 +18,8 @@ function startSim(){
         balls[index].drawBall();
       }
     cycle()
-}
+
+  }
 
 canvas.style.backgroundColor="black"
 class Ball {
